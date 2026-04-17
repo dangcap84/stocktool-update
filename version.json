@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v.1.4.2",
+  "latestVersion": "v.1.4.3",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Bản updater test trên repo update riêng."
+  "note": "Bản test updater: nâng từ 1.4.2 lên 1.4.3."
 }
