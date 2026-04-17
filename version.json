@@ -1,7 +1,7 @@
 {
-  "vesion": "v.1.4.9",
-  "latestVersion": "v.1.4.9",
+  "vesion": "v.1.5.0",
+  "latestVersion": "v.1.5.0",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Bản test updater v1.4.9."
+  "note": "Thêm license activation theo thiết bị (server-side) khi mở app."
 }
