@@ -1,7 +1,7 @@
 {
-  "vesion": "v.1.4.7",
-  "latestVersion": "v.1.4.7",
+  "vesion": "v.1.4.8",
+  "latestVersion": "v.1.4.8",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Đổi tiêu đề app hiển thị đúng tên phiên bản: StockVideoAutoTool_v.1.4.7."
+  "note": "Updater đổi luôn tên file exe theo phiên bản mới để dễ nhận biết sau cập nhật."
 }
