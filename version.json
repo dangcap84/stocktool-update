@@ -1,5 +1,5 @@
 {
-  "latestVersion": "v.1.4.5",
+  "vesion": "v.1.4.5",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
   "note": "Fix updater check: đọc version qua GitHub API để tránh cache trễ, và ổn định tự thay exe."
