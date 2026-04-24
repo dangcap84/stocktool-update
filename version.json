@@ -1,7 +1,7 @@
 {
-  "vesion": "v.2.6.5",
-  "latestVersion": "v.2.6.5",
+  "vesion": "v.2.6.6",
+  "latestVersion": "v.2.6.6",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Bắt buộc check license online khi mở app; giữ parity Voice/Stock mới nhất."
+  "note": "Auto-update 1 chạm: bấm Yes sẽ tự tải và tự thay exe trên Windows."
 }
