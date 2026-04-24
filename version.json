@@ -2,6 +2,6 @@
   "vesion": "v.2.7.2",
   "latestVersion": "v.2.7.2",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
-  "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Fix stop No: pending + running task hiển thị stopped ngay trên UI."
+  "directExeUrl": "",
+  "note": "Tạm tắt directExeUrl để tránh tải nhầm asset release cũ (v1.5.2)."
 }
