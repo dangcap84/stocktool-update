@@ -1,7 +1,7 @@
 {
-  "vesion": "v.2.6.7",
-  "latestVersion": "v.2.6.7",
+  "vesion": "v.2.6.9",
+  "latestVersion": "v.2.6.9",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "note": "Retry lỗi tự động trong lúc chạy + giữ auto-update 1 chạm."
+  "note": "Fix stop/status and dùng luồng tải exe thủ công ổn định từ release page."
 }
