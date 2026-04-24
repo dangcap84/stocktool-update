@@ -2,7 +2,7 @@
   "vesion": "v.2.7.7",
   "latestVersion": "v.2.7.7",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
-  "directExeUrl": "",
-  "sha256": "",
-  "note": "Updater hỗ trợ verify SHA256 trước khi mở bản mới. Tạm tắt directExeUrl cho tới khi release asset đúng bản."
+  "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
+  "sha256": "9e1ba65f35e9811155b78ac603829c3fe4bd363a7ecdea7a7c6a68f10af11d14",
+  "note": "v2.7.7: updater có verify SHA256; fix stop/status và bổ sung voice controls."
 }
