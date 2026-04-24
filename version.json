@@ -1,7 +1,8 @@
 {
-  "vesion": "v.2.7.2",
-  "latestVersion": "v.2.7.2",
+  "vesion": "v.2.7.7",
+  "latestVersion": "v.2.7.7",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "",
-  "note": "Tạm tắt directExeUrl để tránh tải nhầm asset release cũ (v1.5.2)."
+  "sha256": "",
+  "note": "Updater hỗ trợ verify SHA256 trước khi mở bản mới. Tạm tắt directExeUrl cho tới khi release asset đúng bản."
 }
