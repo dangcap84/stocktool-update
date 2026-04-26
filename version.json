@@ -1,8 +1,8 @@
 {
-  "vesion": "v.2.7.8",
-  "latestVersion": "v.2.7.8",
+  "vesion": "v.2.7.9",
+  "latestVersion": "v.2.7.9",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "sha256": "c88235ff3c6901a9c27fc5de120beb4056b4b4c6a86619cfdd7930046f6f63ad",
-  "note": "v2.7.8: license subapp control (ẩn/hiện tab theo quyền) + keygen chọn subapp."
+  "sha256": "750b5a801e3ec2c156cbc13b4ee4473b4d521a04afb735d7d46b2696f8cb996a",
+  "note": "v2.7.9: thêm auto shutdown vào Thiết lập dự án (Project settings)."
 }
