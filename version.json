@@ -1,8 +1,8 @@
 {
-  "vesion": "v.2.8.5",
-  "latestVersion": "v.2.8.5",
+  "vesion": "v.2.8.6",
+  "latestVersion": "v.2.8.6",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "sha256": "dbf265d7921e1c5ea6cc2f345d9a9fc480e8635542e6f5d8541b0a6f2a71b94a",
-  "note": "v2.8.5: fix stop/re-run state, tự clear stale running khi worker đã dừng."
+  "sha256": "ab4ae0fb44c36d57c08a0abea0353ffc4317378031ecb2a4eb20e460c47b3efd",
+  "note": "v2.8.6: fix trạng thái kẹt running khi worker_thread=None sau stop."
 }
