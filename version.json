@@ -1,8 +1,8 @@
 {
-  "vesion": "v.2.8.0",
-  "latestVersion": "v.2.8.0",
+  "vesion": "v.2.8.1",
+  "latestVersion": "v.2.8.1",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "sha256": "ec796dae1240120858ef89a5dacb67a565fe9ce36b283a4319ac3810048e5f5e",
-  "note": "v2.8.0: cập nhật icon tool theo ảnh branding của sếp."
+  "sha256": "775458b6daf8358f890ff9ca9b367ebd237f55fc2b3fd1930e39c17ac1e87232",
+  "note": "v2.8.1: build icon mới theo file icon_app.png."
 }
