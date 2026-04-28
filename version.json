@@ -1,8 +1,8 @@
 {
-  "vesion": "v.2.7.9",
-  "latestVersion": "v.2.7.9",
+  "vesion": "v.2.8.0",
+  "latestVersion": "v.2.8.0",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "sha256": "750b5a801e3ec2c156cbc13b4ee4473b4d521a04afb735d7d46b2696f8cb996a",
-  "note": "v2.7.9: thêm auto shutdown vào Thiết lập dự án (Project settings)."
+  "sha256": "ec796dae1240120858ef89a5dacb67a565fe9ce36b283a4319ac3810048e5f5e",
+  "note": "v2.8.0: cập nhật icon tool theo ảnh branding của sếp."
 }
