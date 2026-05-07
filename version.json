@@ -1,9 +1,9 @@
 {
-  "vesion": "v.2.9.0",
-  "latestVersion": "v.2.9.0",
+  "vesion": "v.2.9.1",
+  "latestVersion": "v.2.9.1",
   "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
   "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
-  "sha256": "bba5086b4bd6817009b36928d8dc91b53e521b83275977629d914376be315b2f",
-  "note": "v2.9.0: tích hợp Whisk backend vào StockTool, ẩn Node/path, không phụ thuộc whisk-repo ngoài.",
-  "currentVersion": "v.2.9.0"
+  "sha256": "255ec2ad9c93e650c7f89671fec47751082d0c8453c92a7b17f1bb22e0dfa28b",
+  "note": "v2.9.1: refactor modular tabs Stock/Voice/CapCut/Content/Image, giữ nguyên hành vi và cập nhật ổn định.",
+  "currentVersion": "v.2.9.1"
 }
