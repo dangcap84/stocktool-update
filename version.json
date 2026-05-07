@@ -1,9 +1,9 @@
 {
-  "vesion": "v.2.8.7",
-  "latestVersion": "v.2.8.7",
-  "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/tag/v2.8.7",
-  "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/download/v2.8.7/StockVideoAutoTool.exe",
-  "sha256": "09a1ef14ec766ef93b3eb618ca6010adf7ca2d6d67824b47c1ef900edde5a2ed",
-  "note": "Rollback tạm về v2.8.7: v2.8.8 gây đơ khi mở do bundle Whisk node_modules nặng.",
-  "currentVersion": "v.2.8.7"
+  "vesion": "v.2.8.9",
+  "latestVersion": "v.2.8.9",
+  "downloadUrl": "https://github.com/dangcap84/stocktool-update/releases/latest",
+  "directExeUrl": "https://github.com/dangcap84/stocktool-update/releases/latest/download/StockVideoAutoTool.exe",
+  "sha256": "1ca45c210beb2899c2b9cba17cb2a4224e0c37a2f6fd6cd9e1fe081948d08526",
+  "note": "v2.8.9: fix app đơ khi mở, bỏ bundle node_modules nặng của Whisk.",
+  "currentVersion": "v.2.8.9"
 }
